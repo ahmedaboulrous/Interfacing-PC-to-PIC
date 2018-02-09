@@ -1,0 +1,9 @@
+C:\Users\Ahmed\Desktop\Interfacing PIC - PC\PC2PIC\code C#\CH2PC2PIC\CH2PC2PIC\bin\Debug\CH2PC2PIC.exe
+C:\Users\Ahmed\Desktop\Interfacing PIC - PC\PC2PIC\code C#\CH2PC2PIC\CH2PC2PIC\bin\Debug\CH2PC2PIC.pdb
+C:\Users\Ahmed\Desktop\Interfacing PIC - PC\PC2PIC\code C#\CH2PC2PIC\CH2PC2PIC\obj\Debug\CH2PC2PIC.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\Interfacing PIC - PC\PC2PIC\code C#\CH2PC2PIC\CH2PC2PIC\obj\Debug\CH2PC2PIC.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\Interfacing PIC - PC\PC2PIC\code C#\CH2PC2PIC\CH2PC2PIC\obj\Debug\CH2PC2PIC.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\Interfacing PIC - PC\PC2PIC\code C#\CH2PC2PIC\CH2PC2PIC\obj\Debug\CH2PC2PIC.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\Interfacing PIC - PC\PC2PIC\code C#\CH2PC2PIC\CH2PC2PIC\obj\Debug\CH2PC2PIC.exe
+C:\Users\Ahmed\Desktop\Interfacing PIC - PC\PC2PIC\code C#\CH2PC2PIC\CH2PC2PIC\obj\Debug\CH2PC2PIC.pdb
+C:\Users\Ahmed\Desktop\Interfacing PIC - PC\PC2PIC\code C#\CH2PC2PIC\CH2PC2PIC\obj\Debug\CH2PC2PIC.Form1.resources
